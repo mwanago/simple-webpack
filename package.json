@@ -12,14 +12,14 @@
   "author": "",
   "license": "ISC",
   "dependencies": {
-    "css-loader": "^6.8.1",
-    "html-webpack-plugin": "^5.5.3",
-    "prettier": "^2.8.8",
-    "rimraf": "^5.0.5",
-    "style-loader": "^3.3.3",
-    "webpack": "^5.89.0",
+    "css-loader": "^7.1.2",
+    "html-webpack-plugin": "^5.6.3",
+    "prettier": "^3.4.1",
+    "rimraf": "^6.0.1",
+    "style-loader": "^4.0.0",
+    "webpack": "^5.96.1",
     "webpack-cli": "^5.1.4",
-    "webpack-dev-server": "^4.15.1",
-    "html-loader": "^4.2.0"
+    "webpack-dev-server": "^5.1.0",
+    "html-loader": "^5.1.0"
   }
 }
